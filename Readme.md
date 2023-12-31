@@ -1,3 +1,9 @@
+
+![3](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/e52b0dfb-9545-4188-925a-a363335de8bf)
+![2](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/c9e21c26-d21b-4dde-81ae-244952e6b603)
+![1](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/28c49243-29a8-48c2-b701-39f155f37b30)
+
+
 step 1 = make calcuator js file 
 
 step 2 = then call "npm init" & install express
