@@ -1,8 +1,8 @@
 
-![3](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/e52b0dfb-9545-4188-925a-a363335de8bf)
-![2](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/c9e21c26-d21b-4dde-81ae-244952e6b603)
-![1](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/28c49243-29a8-48c2-b701-39f155f37b30)
+![1](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/4cf07be5-e7ef-418d-be84-08f834198577)
+![2](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/dd87ef47-66a8-414f-ae38-e201e7f14d97)
 
+![3](https://github.com/abhishekv1000/Addition-Calculator-using-Simple-Express-Server/assets/114013340/fcc8af10-3c3c-4847-8f59-e216dca624af)
 
 step 1 = make calcuator js file 
 
